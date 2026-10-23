@@ -1,0 +1,11 @@
+{
+  "name": "project-intr-prep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "playwright test",
+  "test:headed": "playwright test --headed --workers=1",
+  "test:report": "playwright show-report"
+}
+}
